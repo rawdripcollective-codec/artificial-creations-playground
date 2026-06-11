@@ -11,10 +11,10 @@
   "devDependencies": {
     "@types/node": "^20.5.7",
     "typescript": "^5.2.2",
-    "vitest": "^2.1.4"
+    "vitest": "^4.1.8"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.80.0",
+    "@anthropic-ai/sdk": "^0.104.1",
     "encore.dev": "^1.37.1"
   },
   "optionalDependencies": {
